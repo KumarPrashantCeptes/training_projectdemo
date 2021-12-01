@@ -1,5 +1,5 @@
 # training_projectdemo
 
-this is the first demo project.
+This is the first demo project.
 
-i have changed something in my code.
+I have changed something in my code.
